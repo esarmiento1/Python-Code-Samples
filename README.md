@@ -1,2 +1,2 @@
-# Let-s-Learn-Some-Python
+Python Code Samples
 Module 3: Portfolio - Creating a GitHub Repository 
