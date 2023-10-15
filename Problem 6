@@ -1,0 +1,7 @@
+deg_fahrenheit = float(input("How many degrees Fahrenheit."))
+deg_celsius = (deg_fahrenheit - 32) / 1.8
+print("It is", deg_celsius, "degrees Celsius outside.")
+
+#Eric Sarmiento
+#10/15/2023
+#This program convert fahrenheit to celsius
