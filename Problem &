@@ -1,8 +1,0 @@
-vacationStart=int(input('What day does your vacation start? (Enter 0 for Sunday, 1 for monday, 2 for tuesday, 3 for wesnesday, 4 for thursday, 5 for friday, 6 for saturday.) '))
-vacationLength=int(input('How many days will your vacation be? '))
-returnDay=(vacationLength+vacationStart)%7
-print("You will return on day:", returnDay)
-
-#Eric Sarmiento
-#10/15/2023
-#This program will find the day you return from vacation 
