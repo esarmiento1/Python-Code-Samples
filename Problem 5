@@ -1,0 +1,8 @@
+miles = float(input("How many miles did you drive?:)) 
+gallons = float(input("How many gallons of gas did you use?")) 
+mpg = (miles / gallons) 
+print("Your car uses", mpg, "miles per gallon of gas.")
+
+#Eric Sarmiento
+#10/15/2023
+#This program calculator the MPG for a car 
